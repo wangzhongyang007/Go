@@ -1,4 +1,5 @@
 # Go语言学习路线图
+
 《Go语言学习路线图》在各大技术社区平台已被累积收藏超过1万次。让你少踩坑，高效学，Let's Go!
 
 # 前言
@@ -34,7 +35,6 @@
 # Go签约文章
 
 很荣幸被掘金签约，近期我将持续更新Go进阶实战文章，欢迎关注：[# 签约专栏：Go语言进阶实战](https://juejin.cn/column/7140137480749547528)
-
 
 # 为什么学Go?
 
@@ -98,7 +98,8 @@
 [# Go 语言中操作 MySQL 数据库](https://juejin.cn/post/7103531271803912199)
 作者：[# 宇宙之一粟](https://juejin.cn/user/3526889034751639)
 
-[# golang 基于 mysql 实现分布式读写锁](https://juejin.cn/post/7147214210324234271) 作者：[# 二牛QAQ](https://juejin.cn/user/2344623087289965)
+[# golang 基于 mysql 实现分布式读写锁](https://juejin.cn/post/7147214210324234271)
+作者：[# 二牛QAQ](https://juejin.cn/user/2344623087289965)
 
 ## 部署
 
@@ -126,11 +127,12 @@
 [# Goroutine就是协程：进程 线程 协程 各自的概念以及三者的对比分析](https://juejin.cn/post/6950952506176471071)
 
 ## RPC
+
 [# Go RPC入门指南1：RPC的使用边界在哪里？如何实现跨语言调用？](https://juejin.cn/post/6946452659159171102)
 
 ## 反射
 
-[# Golang的反射reflect深入理解和示例](https://juejin.cn/post/6844903559335526407) 
+[# Golang的反射reflect深入理解和示例](https://juejin.cn/post/6844903559335526407)
 作者：[吴德宝AllenWu](https://juejin.cn/user/1187128287436808)
 
 [# Go语言中的反射](https://juejin.cn/post/7097534989029343246)
@@ -347,8 +349,12 @@
 
 [# 【狂刷面试题】GO常见面试题汇总](https://juejin.cn/post/7131717990558466062)
 
-# 一起学习
+## 联系我
 
-公众号：程序员升级打怪之旅
+我的微信：wangzhongyang1993
 
-微信号：wangzhongyang1993
+视频号：王中阳Go
+
+公众号：程序员升职加薪之旅
+
+欢迎关注 ❤️
