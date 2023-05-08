@@ -2,6 +2,10 @@
 
 《Go语言学习路线图》在各大技术社区平台已被累积收藏超过1万次。让你少踩坑，高效学，Let's Go!
 
+# 面试题系列
+
+[这10道Consul面试题值得一看](https://mp.weixin.qq.com/s?__biz=MzIyNjM0MzQyNg==&mid=2247488593&idx=1&sn=227d41f63b092967a4f199018ea1c90c&chksm=e870bb3cdf07322abc1fd0244843f224327e9ed308fede191d5108f352082242f9ba8ea7a93b&token=1219609477&lang=zh_CN#rd)
+
 # 前言
 
 为了方便大家能够按顺序系统的进行学习，我把之前整理的[Go语言学习专栏](https://juejin.cn/column/7064777730532835336)文章进行了梳理。
